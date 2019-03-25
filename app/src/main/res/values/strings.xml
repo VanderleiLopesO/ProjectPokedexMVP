@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pokédex App</string>
+    <string name="url_image" formatted="false">http://pokeapi.co/media/sprites/pokemon/%s.png</string>
+</resources>
